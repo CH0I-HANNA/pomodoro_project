@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Doto:wght,ROND@577,92&family=Handjet:wght@100..900&family=Orbit&family=Roboto+Condensed:wght@327&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #080b10; /* Aurora와 어울리는 심야 네이비 */
+  color: #ffffff;
+}
+
+
+.task-checkbox:checked {
+  /* Tailwind CSS의 checked:bg-custom-orange로 배경은 채워짐 */
+
+  /* 폰트 기반 아이콘을 Content 속성을 사용해 표시 */
+  background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg viewBox='0 0 16 16' fill='white' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M12.207 4.793a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0l-2-2a1 1 0 011.414-1.414L6.5 9.086l4.293-4.293a1 1 0 011.414 0z'/%3e%3c/svg%3e");
+
+  /* 배경 이미지를 가운데 정렬하고 크기를 맞춤 */
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}

@@ -1,0 +1,68 @@
+HELP.md
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+# -------------------------------------
+# ⭐️ 누락된 항목 추가 ⭐️
+# -------------------------------------
+
+# 1. 보안 및 민감 정보
+#############################
+# 환경 변수 및 키 파일
+.env
+.env.local
+# 💡 YML 설정 파일 추가
+/src/main/resources/application.yml
+/src/main/resources/application-*.yml
+*.yml
+*.log
+keys/
+secrets/
+*.pem
+*.key
+
+# 2. Node.js / React (프론트엔드)
+#############################
+# 의존성 폴더 (가장 중요)
+node_modules/
+# 빌드 출력 (프론트엔드)
+/build
+/dist
+/out
+# 패키지 잠금 파일
+package-lock.json
+yarn.lock
