@@ -116,6 +116,8 @@ FocusGlove는 Task 관리와 집중 기록의 **유기적인 연동**을 통해 
 - **시스템:** JWT(JSON Web Token) 기반의 인증 시스템 채택.
 - **특징:** 무상태(Stateless) 세션으로 안정성과 확장성을 확보하며, 로그인된 사용자만 프로필 관리에 접근 가능.
 
+<img width="765" height="152" alt="Image" src="https://github.com/user-attachments/assets/a0ecff56-faf3-494e-8332-29984f90b238" />
+
 ### 2. 📝 작업 관리 (Task Management)
 
 - **기능:** 오늘의 Task에 대한 CRUD (생성, 조회, 수정/완료, 삭제) 제공.
