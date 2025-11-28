@@ -120,7 +120,7 @@ FocusGlove는 Task 관리와 집중 기록의 **유기적인 연동**을 통해 
 
 ### 2. 📝 작업 관리 (Task Management)
 
-- **기능:** 오늘의 Task에 대한 CRUD (생성, 조회, 수정/완료, 삭제) 제공.
+- **기능:** 오늘의 Task에 대한 CRUD (생성, 조회, 완료, 삭제) 제공.
 - **핵심 연동:** 각 Task는 완료 여부(is_completed)와 Pomodoro 진행 횟수(pomodoroCount)를 독립적으로 추적하며, 주간 완료율 차트의 데이터 소스가 됨.
 
 <img width="366" height="471" alt="Image" src="https://github.com/user-attachments/assets/89a13265-b8ac-4e5d-a8b2-b6b42b1e7d14" />
