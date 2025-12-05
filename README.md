@@ -158,9 +158,11 @@ FocusGlove는 Task 관리와 집중 기록의 **유기적인 연동**을 통해 
 - **사용자 프로필 관리:** 닉네임 변경 및 프로필 사진 업로드를 통해 개인화 가능.
 - **현재 날짜 시각화:** 대시보드에 현재 날짜(예: 2025년 11월 26일)를 명확하게 표시하여 사용자가 시간적 맥락을 인지하도록 도움.
 
-<img width="456" height="204" alt="Image" src="https://github.com/user-attachments/assets/efde7b6b-19db-4abd-a18b-e8cd12b7325f" />
-<img width="366" height="340" alt="Image" src="https://github.com/user-attachments/assets/be7e9705-a66b-4791-8a08-54ff13b921ff" />
 <img width="366" height="314" alt="Image" src="https://github.com/user-attachments/assets/4dde1a26-bc02-4b6e-9ce6-434432fe9213" />
+<img width="366" height="340" alt="Image" src="https://github.com/user-attachments/assets/be7e9705-a66b-4791-8a08-54ff13b921ff" />
+<img width="456" height="204" alt="Image" src="https://github.com/user-attachments/assets/efde7b6b-19db-4abd-a18b-e8cd12b7325f" />
+
+
 
 ---
 
