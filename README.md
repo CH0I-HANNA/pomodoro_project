@@ -167,3 +167,5 @@ FocusGlove는 Task 관리와 집중 기록의 **유기적인 연동**을 통해 
 ## 📸 스크린샷
 <img width="1693" height="984" alt="Image" src="https://github.com/user-attachments/assets/f9063d02-0b29-4d49-bf5e-163c4caa91b7" />
 
+## 🎥 시연 영상
+https://github.com/user-attachments/assets/470969a0-205d-45ca-b454-30b931f31c3d
